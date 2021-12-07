@@ -1,0 +1,18 @@
+p{
+    display: block;
+    background-color: aquamarine;
+    height: 200pX;
+} 
+
+h1{
+    display: inline;
+    background-color: blueviolet;
+    height: 200px;
+}
+
+h2{
+    display: inline-block;
+    background-color: chartreuse;
+    height: 200pX;
+    
+}

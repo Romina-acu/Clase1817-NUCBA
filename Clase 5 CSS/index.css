@@ -1,0 +1,66 @@
+body {
+    background-color: #F9F7F1;
+}
+
+h3 {
+    color: blue
+}
+
+*{
+    font-family: 'Montserrat';
+    font-weight: 900;
+}
+
+p {
+    font-family: 'Josefin sans';
+}
+
+.titulo {
+    color:burlywood;
+}
+
+.titulo2 {
+    color:pink;
+}
+
+#elmejortitulo {
+    color:greenyellow;
+    background-color: indigo;
+}
+
+.cuadrado {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 176, 176);
+}
+
+.cuadrado2 {
+    width: 20%;
+    height: 20%;
+    background-color: blueviolet;
+}
+
+.lisa{
+    width: 200px;
+    height: 200px;
+    background-image: url(http://pm1.narvii.com/6313/f0d859a22f898ab8ff6b9b21df44e2129df45a20_00.jpg);
+    background-size: contain;
+    background background-repeat: no-repeat;
+    background-position: center;
+}
+
+.parrafo1 {
+    color: yellowgreen
+}
+
+.parrafo2 {
+    color:#CDF51D;
+}
+
+.parrafo3 {
+    color:rgb(235, 0, 102);
+}
+
+.parrafo4 {
+    color:rgba(235, 0, 102, 0.5);
+}

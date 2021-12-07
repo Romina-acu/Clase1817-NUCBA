@@ -1,0 +1,63 @@
+.cuadrado {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    }
+
+/* La position static no hace nada, es la versión por default*/
+
+.c-1{
+    background-color: blue;
+    position: static; 
+    top: 200px;
+    left: 200px; 
+}
+
+/*La position relative se mueve el elemento desde el punto inicial hasta donde se indica con la posición. */
+
+.c-2{
+    background-color: pink;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+/* Position absolute no respeta al resto de los elementos, va en donde se le indica, aún si hay otro elemento en esa posición.*/
+
+.c-3{
+    background-color: violet;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+/*position fixed sirve para cuando scrolleas que el menú, anuncios, etc. siga el scroll*/
+.c-4{
+    background-color: green;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+/*Position fixed es con respecto al body*/
+.c-5{
+    background-color: yellow;
+    width: 100%;
+    height: 50%;
+    overflow: auto;
+}
+
+.c-6{
+    background-color: red;
+    position: sticky;
+    height: 1000px;
+    top: 0;
+    left: 0;
+}
+
+/*Sticky es como un fixed pero dentro de un elemento.*/
+.c-7{
+    background-color: blueviolet;
+    position: sticky;
+    height: 1000px;
+}

@@ -1,0 +1,34 @@
+.contenedor {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cuadrado {
+    width: 200px;
+    height: 200px;
+}
+ 
+
+.c-1 {
+    background-color:aqua;
+}
+.c-2 {
+    background-color: blueviolet;
+}
+.c-3 {
+    background-color: thistle;
+}
+.c-4 {
+    background-color: tomato;
+}
+.c-5 {
+    background-color: yellowgreen;
+}
+.c-6 {
+    background-color: crimson;
+}

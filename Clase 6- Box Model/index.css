@@ -1,0 +1,19 @@
+.parrafo1 {
+   /* margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-bottom: 80px;*/
+
+    margin: 10px 50px 80px 40px;
+    border: 5px solid blue;
+    padding-block: 40px;
+    background-color: azure;
+
+}
+
+.parrafo2{
+    width:100px;
+    height: 100px;
+    background-color: cadetblue;
+    overflow:scroll;
+}

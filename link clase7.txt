@@ -1,0 +1,14 @@
+css layouts
+https://developer.mozilla.org/es/docs/Web/HTML/Block-level_elements#elementos
+
+https://developer.mozilla.org/es/docs/Web/HTML/Inline_elements#elementos
+
+https://developer.mozilla.org/es/docs/Web/CSS/display
+
+https://developer.mozilla.org/es/docs/Web/CSS/position
+
+Para practicar flexbox: https://flexboxfroggy.com/#es
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+flexbox froggy
