@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    height: 100px;
+    margin-inline-start: 40px;
+    background-color: rgb(216, 243, 253);
+}
+
+.logo-header{
+    display: inline-flex;
+    height: 100px;
+    justify-content: left;
+    align-items: left;
+    float: left;
+}
+
+.menu{
+    display: inline-flex;
+    height: 100px;
+    float: left;
+    justify-content: right;
+    padding: 40px;
+    flex-grow: 1;
+}
+
+
