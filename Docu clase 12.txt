@@ -1,0 +1,7 @@
+clase 12
+Documentación
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+
+https://developer.mozilla.org/es/docs/Web/CSS/:nth-child
+
+https://codepen.io/
